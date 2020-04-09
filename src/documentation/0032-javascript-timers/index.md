@@ -93,7 +93,7 @@ const interval = setInterval(() => {
 }, 100)
 ```
 
-## Recursive setTimeout
+## Recursive setInterval
 
 `setInterval` starts a function every n milliseconds, without any consideration about when a function finished its execution.
 
